@@ -3,5 +3,6 @@ test:
     - echo "-----start test-----"
   override:
     - echo Hello World!
+    - hello
   post: 
     - echo "-----end test-----"
