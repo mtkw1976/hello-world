@@ -1,3 +1,6 @@
+dependencies:
+  pre:
+    - echo "----- make ---------"; make
 test:
   pre: 
     - echo "-----start test-----"
