@@ -1,0 +1,6 @@
+compile:
+
+test:
+  override:
+    - ./hello
+
